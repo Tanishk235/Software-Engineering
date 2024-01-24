@@ -2,7 +2,7 @@
 #include <cmath>
 
 using namespace std;
-
+// code that find the determinants of roots by using the discriminant 
 string determine_roots(int a, int b, int c) {
     // Check if it's a quadratic equation
     if (a == 0) {
